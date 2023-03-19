@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main() {
     int rows, columns;
     char operator;
